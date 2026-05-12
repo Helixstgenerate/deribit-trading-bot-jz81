@@ -1,4 +1,4 @@
-# 
+# Get the ultimate deribit trading bot with automatic deribit trading bot Module | stop-loss + liquidation-sniping. Featuring stop-loss and liquidation-sniping, it's the best choice
 
 
 
